@@ -18,6 +18,10 @@ class Calculator{
        case 3:
        result=fno*sno;
        break;
+       case 4:
+       result =fno/sno;
+break;
+
 	default:
 	System.out.println("Enter a valid choice");
 	}
